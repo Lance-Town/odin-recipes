@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(98, 185, 121);
+}
+
+.background .banner {
+    margin: 1% 1% 0 1%;
+    border-radius: 1rem;
+}
+
+.background h1 {
+    margin: 0 0 0 1%;
+}
+
+.background img {
+    border-radius: 1rem;
+    margin: 0 0 0 1%;
+}
